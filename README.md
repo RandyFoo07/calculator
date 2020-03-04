@@ -1,2 +1,2 @@
-# smol-calculator
-Small calculator in a browser
+# calculator
+A calculator in a browser
